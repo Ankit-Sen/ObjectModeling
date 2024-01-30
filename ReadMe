@@ -1,0 +1,4 @@
+Entities
+User- Can Store users and playlists
+Playlist- Multiple user can have Multiple playlists
+Song-Songs which are loaded in the repository can only be added in the playlist
